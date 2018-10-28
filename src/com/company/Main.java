@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Introduzca el segundo número \"B\":\n");
         int numeroB=sc.nextInt();
 
-        //Comparamos ambos numeros y en funcion de cual es el mayor, los mostramos en orden.
+        //Comparamos ambos números y en función de cual es el mayor, los mostramos en orden.
 
         if (numeroA>numeroB) {
             System.out.printf("%d, %d.\n", numeroA, numeroB);
