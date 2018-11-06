@@ -19,5 +19,7 @@ public class Main {
         } else {
             System.out.printf("%d, %d.\n", numeroB, numeroA);
         }
+        //Cerramos el scanner.
+        sc.close();
     }
 }
